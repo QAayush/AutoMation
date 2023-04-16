@@ -1,7 +1,7 @@
 Feature: Verify add to basket functionality
 
 
-@Test2
+@Test2 @test
 Scenario: Verify user able to Add to cart any product
 Given launch url
 When Verify user accept all cookies and age
