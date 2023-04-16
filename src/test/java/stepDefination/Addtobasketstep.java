@@ -20,7 +20,7 @@ public class Addtobasketstep {
 	
 	public void click_on_add_to_basket() {
 		addbskt.clickOnBasket();
-		//test
+		//test //test
 	}
 	
 	@Then ("Product add successfully into a basket")
